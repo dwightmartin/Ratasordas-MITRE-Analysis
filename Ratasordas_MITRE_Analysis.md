@@ -2,7 +2,7 @@
 
 ### **Project Overview**
 
-This document presents a tactical analysis of the Ratasordas Technologies security incident, using the **MITRE ATT\&CK framework**. This approach focuses on the adversary's techniques and tactics to provide a deeper understanding of the attack chain. The analysis translates the incident into a structured framework, which is then used to inform strategic recommendations for improving the company's security posture.
+This document presents a tactical analysis of the fictional company Ratasordas Technologies security incident, using the **MITRE ATT\&CK framework**. This approach focuses on the adversary's techniques and tactics to provide a deeper understanding of the attack chain. The analysis translates the incident into a structured framework, which is then used to inform strategic recommendations for improving the company's security posture.
 
 ### **Incident Analysis: The MITRE ATT\&CK Matrix**
 
