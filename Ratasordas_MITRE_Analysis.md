@@ -46,11 +46,11 @@ Based on the MITRE ATT\&CK analysis, the company's security strategy should focu
 
 The MITRE ATT\&CK framework provides a foundation for proactive threat hunting. This analysis will be used to develop a hunting plan that looks for similar activity in network logs and security information and event management (SIEM) systems. We will use the identified techniques (e.g., T1133, T1078) as indicators of compromise (IOCs) to search for potential adversary activity that may not have triggered an automated alert.
 
-### **Lessons Learned**
+### **Post-Incident Lessons Learned and Process Improvements**
 
-* **Process Failure:** The three-day recovery time was not due to a technical failure but a process failure caused by the lack of a standardized naming convention for the graphics. This meant the graphics team had to manually match and re-upload each file one by one.  
-* **Business Impact:** The delay was unacceptable as it rendered the core product unusable, leading to a loss of user trust and potential revenue.  
-* **Continuous Improvement:** A new policy has since been implemented to use a standardized naming nomenclature for all graphics. This change allows for **near-immediate recovery** in the future, dramatically reducing the potential for business disruption and business impact.
+* **Strategic Governance Failure:** The incident highlighted a critical failure in governance. We learned that we cannot rely on a third-party vendor to determine the criticality of an asset. The wordless nature of our app makes graphics a high-priority asset, and as such, we must be proactive in setting and enforcing security expectations for all vendors.  
+* **Operational Process Failure:** The three-day recovery time was not due to a technical failure but a process failure. The lack of a standardized naming convention for graphics meant the team had to manually match and re-upload each file, which was a time-consuming and inefficient process.  
+* **Business Impact and Remediation:** This delay was unacceptable from a business perspective, as it rendered our core product unusable and likely led to a loss of user trust and potential revenue. A new policy has since been implemented to use a standardized naming nomenclature for all graphics. This change allows for a **near-immediate recovery** in the future, dramatically reducing the potential for business disruption.
 
 ### **Skills Demonstrated**
 
