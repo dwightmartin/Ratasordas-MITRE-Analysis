@@ -2,7 +2,7 @@
 
 ### **Project Overview**
 
-This document presents a tactical, threat-informed analysis of a security incident at Ratasordas Technologies. Using the **MITRE ATT\&CK framework**, this project dissects an attack that rendered the company's app unusable by deleting graphics from a third-party server. The analysis maps the adversary's actions to specific techniques, providing a strategic foundation for proactive defense and continuous improvement.
+This document presents a tactical, threat-informed analysis of a security incident at Ratasordas Technologies, a fictional company. Using the **MITRE ATT\&CK framework**, this project dissects an attack that rendered the company's app unusable by deleting graphics from a third-party server. The analysis maps the adversary's actions to specific techniques, providing a strategic foundation for proactive defense and continuous improvement.
 
 ### **Attack Analysis Summary**
 
